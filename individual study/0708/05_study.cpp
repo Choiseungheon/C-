@@ -5,7 +5,7 @@ int main() {
    'J','K','L','M','N','O','P','Q','R',
    'S','T','U','V','W','X','Y','Z' };
 
-	char m = 0, n = 0, temp = 0, j = 25;
+	char m = 0, n = 0, temp = 0;
 
 
 	while (m < 26) {
